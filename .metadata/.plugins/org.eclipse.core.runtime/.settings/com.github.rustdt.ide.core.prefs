@@ -1,0 +1,4 @@
+daemon_path=D\:\\git\\racer\\target\\release\\racer.exe
+eclipse.preferences.version=1
+sdk_path=C\:\\Program Files\\Rust stable 1.2
+sdk_src_path=D\:\\rustc-1.2.0\\src

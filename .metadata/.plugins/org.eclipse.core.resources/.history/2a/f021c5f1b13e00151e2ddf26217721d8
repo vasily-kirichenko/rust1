@@ -1,0 +1,15 @@
+fn fib(n: i32) -> i32 {
+	match n {
+		0 | 1 => n,
+		_ => fib(n-1) + fib(n-2)
+	}
+}
+
+import std::
+
+fn main() {
+	for i in 0..40 {
+    	println!("fib({}) = {}", i, fib(i));
+    	
+   	}
+}
